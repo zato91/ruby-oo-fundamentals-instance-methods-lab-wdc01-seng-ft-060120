@@ -1,9 +1,9 @@
 class Person
   def talk
-    return "hello World"
+    puts "hello World"
   end
   
   def walk 
-    return "The Person is walking"
+    puts "The Person is walking"
   end 
 end 
