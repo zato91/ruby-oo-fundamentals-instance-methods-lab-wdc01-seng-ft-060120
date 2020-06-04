@@ -1,4 +1,5 @@
 class Dog
-  def bark
+  def bark"
+    return "Woof!"
   end 
 end
